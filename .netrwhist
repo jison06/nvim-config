@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =5
+let g:netrw_dirhist_5='/Users/jison/.config/nvim/VimPlug'
+let g:netrw_dirhist_4='/Users/jison/projects/dev/apps/hubservices/app/controllers'
+let g:netrw_dirhist_3='/Users/jison/projects/dev/apps/hubservices/app'
+let g:netrw_dirhist_2='/Users/jison/projects/dev/apps/hubservices/app/channels'
+let g:netrw_dirhist_1='/Users/jison/projects/dev/apps/hubservices/app/channels/application_cable'
+let g:netrw_dirhist_0='/Users/jison/projects/dev/apps/hubservices/app/channels'
+let g:netrw_dirhist_9='/Users/jison/projects/dev/apps/hubservices/app'
+let g:netrw_dirhist_8='/Users/jison/projects/dev/apps/hubservices'
+let g:netrw_dirhist_7='/Users/jison/projects/dev/apps/hubservices/app'
+let g:netrw_dirhist_6='/Users/jison/projects/dev/apps/hubservices'
