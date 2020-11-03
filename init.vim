@@ -9,7 +9,7 @@ syntax on
 
 let mapleader = " "
 nmap <leader>w :w<cr>
-nmap <leader>l :noh<cr>
+nmap <leader>r :noh<cr>
 " Quickly insert an empty new line without entering insert mode
 nnoremap <Leader>o o<Esc>
 nnoremap <Leader>O O<Esc>

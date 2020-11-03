@@ -19,5 +19,6 @@ Plug 'tpope/vim-rails'
 Plug 'junegunn/fzf.vim'
 Plug 'dracula/vim', { 'as': 'dracula' }
 Plug 'sheerun/vim-polyglot'
+Plug 'slim-template/vim-slim'
 
 call plug#end()

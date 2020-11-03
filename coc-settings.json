@@ -1,6 +1,6 @@
 {
   "solargraph.diagnostics": true,
-  //  "solargraph.autoformat": true,
+  "solargraph.autoformat": true,
   "solargraph.formatting": true,
   "solargraph.hover": true,
   "explorer.icon.enableNerdfont": true,
@@ -8,8 +8,8 @@
   "coc.preferences.formatOnSaveFiletypes": [
     "css",
     "html",
-    //    "javascriptreact"
-    //   "javascript",
+    "javascriptreact",
+    "javascript",
     "markdown",
     "json"
   ]
