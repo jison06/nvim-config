@@ -5,7 +5,7 @@ set shiftwidth=2
 set expandtab
 set autoindent
 set encoding=UTF-8
-syntax on
+syntax enable
 
 let mapleader = " "
 nmap <leader>w :w<cr>
