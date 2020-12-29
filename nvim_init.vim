@@ -1,8 +1,12 @@
+let g:airline#extensions#tabline#enabled = 1
+set mouse=a
+
 source $HOME/.config/nvim/keybindings/keybindings.vim
 source $HOME/.config/nvim/VimPlug/plugins.vim
 source $HOME/.config/nvim/configs/themes.vim
 source $HOME/.config/nvim/configs/fzf_config.vim
 source $HOME/.config/nvim/configs/ale_config.vim
+source $HOME/.config/nvim/configs/closetag_config.vim
 
 set cursorline
 set nocompatible
@@ -16,3 +20,4 @@ let g:rainbow_active = 1
 let &t_8f = "\<Esc>[38;2;%lu;%lu;%lum"
 let &t_8b = "\<Esc>[48;2;%lu;%lu;%lum"
 command! -nargs=0 Prettier :call CocAction('runCommand', 'prettier.formatFile')
+let g:airline_theme = "deus"

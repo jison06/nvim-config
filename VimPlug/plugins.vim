@@ -1,5 +1,6 @@
 call plug#begin('~/.local/share/nvim/plugged')
 
+Plug 'alvan/vim-closetag'
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
 Plug 'dense-analysis/ale'
 Plug 'vim-airline/vim-airline'
@@ -21,5 +22,6 @@ Plug 'sheerun/vim-polyglot'
 Plug 'slim-template/vim-slim'
 Plug 'mhartington/oceanic-next'
 Plug 'tpope/vim-commentary'
+Plug 'bagrat/vim-buffet'
 
 call plug#end()
