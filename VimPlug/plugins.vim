@@ -23,5 +23,9 @@ Plug 'slim-template/vim-slim'
 Plug 'mhartington/oceanic-next'
 Plug 'tpope/vim-commentary'
 Plug 'bagrat/vim-buffet'
+Plug 'Rigellute/rigel'
+Plug 'pgavlin/pulumi.vim'
+Plug 'srcery-colors/srcery-vim'
+Plug 'Marfisc/vorange'
 
 call plug#end()

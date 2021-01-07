@@ -8,7 +8,7 @@ source $HOME/.config/nvim/configs/fzf_config.vim
 source $HOME/.config/nvim/configs/ale_config.vim
 source $HOME/.config/nvim/configs/closetag_config.vim
 
-set cursorline
+" set cursorline
 set nocompatible
 set termguicolors
 set grepprg=rg\ --vimgrep\ --no-heading\ --smart-case
