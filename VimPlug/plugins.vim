@@ -27,5 +27,6 @@ Plug 'Rigellute/rigel'
 Plug 'pgavlin/pulumi.vim'
 Plug 'srcery-colors/srcery-vim'
 Plug 'Marfisc/vorange'
+Plug 'tpope/vim-surround'
 
 call plug#end()
